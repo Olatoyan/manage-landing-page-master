@@ -1,0 +1,38 @@
+.cta:link,
+.cta:visited {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 1.4rem;
+  padding: 1rem 2.6rem;
+  background-color: #f25f3a;
+  color: #fafafa;
+  border-radius: 4rem;
+  transition: all 0.3s;
+}
+
+.cta:hover,
+.cta:active {
+  background-color: #fda18a;
+}
+
+.margin-bm {
+  margin-bottom: 7rem;
+}
+
+.primary__heading {
+  font-size: 4rem;
+  width: 60%;
+  line-height: 1.1;
+  color: #242d52;
+}
+
+.secondary__heading {
+  width: 50%;
+  font-size: 2.5rem;
+}
+.heading__text {
+  font-size: 1.6rem;
+  font-weight: 300;
+  width: 60%;
+  color: #9095a7;
+}
