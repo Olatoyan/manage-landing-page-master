@@ -81,3 +81,5 @@ const validEmail = function () {
 // });
 
 submit.addEventListener("submit", validEmail);
+
+let s;
