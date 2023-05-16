@@ -84,3 +84,4 @@ submit.addEventListener("submit", validEmail);
 
 let s;
 let r;
+let e;
